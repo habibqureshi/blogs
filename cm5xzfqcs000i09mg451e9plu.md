@@ -5,7 +5,7 @@ datePublished: Wed Jan 15 2025 14:13:46 GMT+0000 (Coordinated Universal Time)
 cuid: cm5xzfqcs000i09mg451e9plu
 slug: debug-like-a-pro-writing-logs-that-solve-production-mysteries
 cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/CO6r5hbt1jg/upload/329babd4c6af2bfe7fd255d7777178a8.jpeg
-tags: express, nodejs, debugging, consolelog
+tags: express, nodejs, backend, debugging, consolelog
 
 ---
 
