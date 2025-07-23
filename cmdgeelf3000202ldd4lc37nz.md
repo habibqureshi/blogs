@@ -69,7 +69,7 @@ Once your MVP is live:
 
 This ensures you're building something that genuinely solves your users' problems and helps guide your next development phase.
 
-In the next article of this series, we’ll dive deeper into [Cost‑Saving Cloud Strategies for MVPs](http://iamhabibqureshi.com)
+In the next article of this series, we’ll dive deeper into [Cost‑Saving Cloud Strategies for MVPs](https://iamhabibqureshi.com/cost-effective-cloud-solutions-to-build-your-mvp)
 
 ## **Conclusion**
 
