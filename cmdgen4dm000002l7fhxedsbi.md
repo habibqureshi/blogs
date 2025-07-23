@@ -130,5 +130,7 @@ Cloud costs can quietly build up if something is misconfigured or running longer
 
 > **Pro Tip:** Always set billing alerts when you create your cloud account — it’s a simple step that can save you from expensive mistakes later.
 
+in the next article i will discuss about [how much you should spend to build an MVP](https://iamhabibqureshi.com/how-much-time-should-you-spend-to-build-an-mvp)
+
 **Have an idea in mind?**  
 👉 **Let’s connect and discuss how we can bring your MVP to life — efficiently, affordably, and ready to scale**
