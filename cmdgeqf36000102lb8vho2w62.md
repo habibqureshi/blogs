@@ -31,7 +31,7 @@ Most MVPs aren’t just a simple app or website — they usually need a few core
     
     You’ll often need a dashboard for users to manage their accounts, and an admin panel for you or your team to monitor users, manage data, or control what’s happening in the app.
     
-* **Backend Brain of your MVP:**The **backend** is where all the logic of your app lives.
+* \*\*Backend Brain of your MVP:\*\*The **backend** is where all the logic of your app lives.
     
     * For example:
         
@@ -64,6 +64,8 @@ On top of that, you’ll need:
     
     Finally, before going live, the MVP is tested internally to fix any issues, and early feedback is collected to ensure the core problem is being solved.
     
+
+> in the next article i will discuss [how to choose technology for you MVP](https://iamhabibqureshi.com/how-to-choose-the-right-technology-for-your-mvp-even-if-youre-not-technical)
 
 ### Conclusion
 
