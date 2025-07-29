@@ -4,7 +4,7 @@ seoTitle: "Time should spend to develop MVP"
 datePublished: Wed Jul 23 2025 20:19:46 GMT+0000 (Coordinated Universal Time)
 cuid: cmdgeqf36000102lb8vho2w62
 slug: how-much-time-should-you-spend-to-build-an-mvp
-cover: https://cdn.hashnode.com/res/hashnode/image/stock/unsplash/dhZtNlvNE8M/upload/b28935041df3ba4a3fd56de426675c5a.jpeg
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1753828466191/d60b965a-fc84-4764-aeb7-fec1d4ac8334.jpeg
 tags: ai, software-development, technology, mvp, time-management
 
 ---
